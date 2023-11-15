@@ -116,7 +116,7 @@ nav {
 .sub-title-wrap {
     width: 100%;
     height: 300px;
-    background-image: linear-gradient(rgba(84, 84, 84, 0.5), rgba(84, 84, 84, 0.5)), url('../images/recom-sub-intro.jpg');
+    background-image: linear-gradient(rgba(84, 84, 84, 0.5), rgba(84, 84, 84, 0.5)), url('../images/recom_sub_intro.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -152,7 +152,7 @@ nav {
     background-color: #fff;
 }
 
-.sub-location-wrap {
+.sub-navigate-wrap {
     max-width: 1200px;
     margin: 0 auto;
     padding: 150px 0;
@@ -160,24 +160,24 @@ nav {
     justify-content: space-between;
 }
 
-.sub-location-nav {
+.sub-navigate-nav {
     width: 15%;
 }
 
-.sub-location-nav h4 {
+.sub-navigate-nav h4 {
     margin-bottom: 15px;
     font-size: 20px;
 }
 
-.sub-location-nav li {
+.sub-navigate-nav li {
     margin-bottom: 5px;
 }
 
-.sub-location-nav li a:hover {
+.sub-navigate-nav li a:hover {
     color: tomato;
 }
 
-.sub-location-content {
+.sub-navigate-content {
     width: 85%;
 }
 
