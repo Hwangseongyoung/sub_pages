@@ -155,7 +155,7 @@ nav {
 
 /* section 시작 */
 
-.intro-content {
+.intro-content-wrap {
     max-width: 1200px;
     margin: 0 auto;
     padding: 150px 0;
@@ -182,15 +182,11 @@ nav {
 
 .intro-content {
     width: 85%;
-}
-
-.intro-content-wrap {
-    max-width: 1200px;
     margin: 0 auto;
     margin-left: 80px;
 }
 
-.intro-content-wrap ul {
+.intro-content ul {
     display: flex;
     justify-content: space-between;
 }
